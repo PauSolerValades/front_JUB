@@ -1,0 +1,32 @@
+{
+  "job1":{
+    "position": "Software Engineer",
+    "workday": "From Monday to Friday",
+    "name_business": "Company A",
+    "location": "Mallorca",
+    "start_date": "01/11/2021",
+    "finish_date": "undefined",
+    "sector": "Information technology",
+    "description": "Do you know any programming? Then we are looking for you!"
+  },
+  "job2":{
+    "position": "Software Architect",
+    "workday": "From Monday to Friday",
+    "name_business": "Company A",
+    "location": "Mallorca",
+    "start_date": "01/11/2021",
+    "finish_date": "undefined",
+    "sector": "Information technology",
+    "description": "We have free coffee."
+  },
+  "job3":{
+    "position": "DJ",
+    "workday": "One weekend from Thursday to Saturday night",
+    "name_business": "Disco Fun",
+    "location": "Barcelona",
+    "start_date": "04/11/2021",
+    "finish_date": "06/11/2021",
+    "sector": "Entretainment",
+    "description": "Our DJ is on vacation for the weekend and we need a replacement."
+  }
+}

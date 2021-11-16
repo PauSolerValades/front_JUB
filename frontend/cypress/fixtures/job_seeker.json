@@ -1,0 +1,42 @@
+{
+  "email": "jobseeker@email.com",
+  "password": "jub",
+  "academic_form_forms": [
+    { 
+      "degree": "Mathematics",
+      "institution": "University of Barcelona",
+      "year": "2022"
+    }
+  ],
+  "job_seeker_form": {
+    "name": "John Snow",
+    "email": "jobseeker@email.com",
+    "address": "Plaça Universitat, Barcelona",
+    "description": "Tall and handsome.",
+    "disponibility": "full-time"
+  },
+  "skills": ["Python", "Teamwork", "Excel", "English"],
+  "language_forms": [
+    {
+      "language": "English",
+      "grade": "Proficiency",
+      "year": "2015"
+    }, {
+      "language": "Spanish",
+      "grade": "Advanced",
+      "year": "2020"
+    }
+  ],
+  "past_job_forms": [
+    {
+      "job": "Validation Intern",
+      "place": "Wallbox",
+      "year": "2020"
+    },
+    {
+      "job": "Software Engineer",
+      "place": "Wallbox",
+      "year": "2021"
+    }
+  ]
+}

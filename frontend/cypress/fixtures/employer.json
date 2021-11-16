@@ -1,0 +1,10 @@
+{
+  "email": "employer@email.com",
+  "password": "jub",
+  "employer_form":{
+    "name": "Company A",
+    "email": "employer@email.com",
+    "address": "Avinguda Diagonal, 33",
+    "description": "We are a small company but we have big dreams."
+  }
+}
